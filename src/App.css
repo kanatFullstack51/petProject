@@ -1,0 +1,61 @@
+.App {
+  /* width: 100vw; */
+
+  /* background-color: blueviolet; */
+  text-align: center;
+}
+
+.container {
+  padding: 25px;
+  position: relative;
+  overflow: hidden;
+  border: 3px black solid;
+  width: 500px;
+  height: 500px;
+  background: white;
+  padding: 8px,
+}
+
+.forAv {
+  /* text-align: center !important; */
+  border-radius: 50%;
+  /* margin: 0 auto !important; */
+  margin-left: 35%;
+}
+
+.object_tables {
+
+  align-items: center !important;
+  position: absolute;
+}
+
+
+
+
+.desk {
+  /* padding: 4px; */
+  align-items: center;
+  border: 1px solid black;
+  width: 70px;
+  height: 33px;
+}
+
+.pillar {
+  align-items: center;
+
+  border: 1px solid black;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+
+}
+
+.table {
+  align-items: center !important;
+
+  /* margin-left: -30%; */
+  border: 1px solid black;
+  width: 140px;
+  height: 70px;
+  border-radius: 50px;
+}
